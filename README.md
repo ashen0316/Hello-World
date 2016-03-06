@@ -1,2 +1,2 @@
 # Hello-World
-just try to use githud
+just try to use github
